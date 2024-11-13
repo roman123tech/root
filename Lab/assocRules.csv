@@ -1,0 +1,13 @@
+Antecedent,Consequent,Confidence
+Bread,Milk,0.75
+Milk,Bread,0.75
+Milk,Jam,0.75
+Jam,Milk,1.0
+Bread,Sauce,0.75
+Sauce,Bread,1.0
+Cola,Diaper,1.0
+Diaper,Cola,0.75
+Bread,Diaper,0.75
+Diaper,Bread,0.75
+Milk,Diaper,0.75
+Diaper,Milk,0.75

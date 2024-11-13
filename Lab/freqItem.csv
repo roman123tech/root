@@ -1,0 +1,13 @@
+Itemset,Support
+Sauce,0.6
+Milk,0.8
+Jam,0.6
+Bread,0.8
+Cola,0.6
+Diaper,0.8
+"Bread, Milk",0.6
+"Milk, Jam",0.6
+"Bread, Sauce",0.6
+"Cola, Diaper",0.6
+"Bread, Diaper",0.6
+"Milk, Diaper",0.6
